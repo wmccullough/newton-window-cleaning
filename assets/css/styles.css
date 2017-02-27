@@ -1,0 +1,14 @@
+.center-block {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+a.navbar-brand.navbar-link {
+  height:100%;
+}
+
+nav.navbar-nav {
+  height:100%;
+}
+
